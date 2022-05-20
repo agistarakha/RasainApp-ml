@@ -9,6 +9,8 @@ Contain output for model train history
 ## Model Project
 Model used for image classification
 
-# Related Project 
-[RASAIN Android Project](https://github.com/ChristanFarel/RasainApp)
-[RASAIN Cloud Computing Project](https://github.com/andikabahari/RasainApp-backend)
+# Related Project Repository
+|Links|Description|
+|-----|-----------|
+|https://github.com/ChristanFarel/RasainApp|Android Project|
+|https://github.com/andikabahari/RasainApp-backend|Cloud Computing Project|
