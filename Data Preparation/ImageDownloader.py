@@ -7,7 +7,7 @@ search_keyword = 'onde+onde+mini+kering'
 page = '0'
 region = '&gl=id'
 # region = ''
-api_key = 'b4c4055bd856e0a2f2e5d34c98c0034f8b99fb6af9235e7317a9ff5b1d3c532d'
+api_key = ''
 
 
 def download_pic(pic_url, name):
