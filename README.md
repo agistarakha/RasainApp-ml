@@ -54,6 +54,7 @@ Download one of the models that located in: https://github.com/agistarakha/Rasai
 ### Prediction
 #### Python
 ```python
+model = tf.keras.models.load_model(".h5 MODLE PATH") #Load Model
 img = image.load_img($IMAGE_PATH, target_size=(150, 150)) # Load image and resize the image
 x = image.img_to_array(img) # Convert image to array
 x = np.expand_dims(x, axis=0)
